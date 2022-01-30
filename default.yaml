@@ -1,0 +1,8 @@
+%yaml:1.0
+
+# LO Parameters
+max_num_lost: 20
+min_inliers: 10
+keyframe_rotation: 0.1
+keyframe_translation: 0.1
+
